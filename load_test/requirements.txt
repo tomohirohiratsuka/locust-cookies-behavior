@@ -1,0 +1,3 @@
+locust==2.32.8
+locust-plugins==4.5.3
+logging==0.4.9.6
